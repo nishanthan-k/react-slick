@@ -15,6 +15,48 @@ const Slider1 = () => {
     autoplaySpeed: 1000,
   };
 
+  // const properties = {
+  //   dots: true,
+  //   slidesToShow: 2,
+  //   slidesToScroll: 1,
+  //   infinite: true,
+  //   speed: 500,
+  //   autoplay: true,
+  //   autoplaySpeed: 1000,
+  // };
+
+  // const properties = {
+  //   dots: true,
+  //   slidesToShow: 1,
+  //   slidesToScroll: 2,
+  //   infinite: true,
+  //   speed: 500,
+  //   autoplay: true,
+  //   autoplaySpeed: 1000,
+  // };
+
+  // const properties = {
+  //   dots: true,
+  //   slidesToShow: 2,
+  //   slidesToScroll: 2,
+  //   infinite: true,
+  //   speed: 500,
+  //   autoplay: true,
+  //   autoplaySpeed: 1000,
+  // };
+
+  // const properties = {
+  //   dots: true,
+  //   slidesToShow: 2,
+  //   slidesToScroll: 2,
+  //   infinite: true,
+  //   speed: 500,
+  //   autoplay: true,
+  //   autoplaySpeed: 1000,
+  //   fade: true,
+  // };
+
+
   return (
     <div className='slider-container'>
       <h1>Slider</h1>
