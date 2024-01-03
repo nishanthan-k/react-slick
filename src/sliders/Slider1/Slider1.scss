@@ -1,0 +1,42 @@
+.slider-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(178, 175, 175);
+
+  .slider {
+    width: 60%;
+    height: 50%;
+
+    .img-container {
+      width: 70px;
+      height: 320px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
+
+      img {
+        width: 90%;
+        height: 90%;
+        object-fit: contain;
+        margin: auto;
+        filter: drop-shadow(2px 2px 5px);
+      }
+    }
+
+    .primary {
+      background-color: teal;
+      border: none;
+      outline: none;
+    }
+
+    .secondary {
+      background-color: green;
+      border: none;
+      outline: none;
+    }
+  }
+}

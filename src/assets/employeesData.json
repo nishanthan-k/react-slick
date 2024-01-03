@@ -1,0 +1,103 @@
+[
+  {
+    "empID": "EMP101",
+    "role": "Frontend Developer",
+    "firstName": "Romin",
+    "lastName": "Irani",
+    "fullName": "Romin Irani",
+    "dob": "10-11-1990",
+    "doj": "12-04-2010",
+    "phoneNumber": "408-1234567",
+    "emailAddress": "romin.k.irani@gmail.com",
+    "userName": "romin",
+    "password": "pass",
+    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMVBPbgkmxmVdV1qsmqC-UyUPSF0nyyZR4HpUdnsXh6zLyoT_kR1J3AdcgsrG-FEwaGs&usqp=CAU",
+    "exp": 1
+  },
+  {
+    "empID": "EMP102",
+    "role": "Backend Developer",
+    "firstName": "Neil",
+    "lastName": "Irani",
+    "fullName": "Neil Irani",
+    "dob": "10-11-1995",
+    "doj": "26-02-2020",
+    "phoneNumber": "408-1111111",
+    "emailAddress": "neilrirani@gmail.com",
+    "userName": "neil",
+    "password": "pass",
+    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1VQNJzDcYKJ8MzGcxue8TKdZDKMxRrxJvqg&usqp=CAU",
+    "exp": 7
+  },
+  {
+    "empID": "EMP103",
+    "role": "Fullstack Developer",
+    "firstName": "Tom",
+    "lastName": "Hanks",
+    "fullName": "Tom Hanks",
+    "dob": "10-11-1999",
+    "doj": "30-04-2020",
+    "phoneNumber": "408-2222222",
+    "emailAddress": "tomhanks@gmail.com",
+    "userName": "tom",
+    "password": "pass",
+    "src": "https://cdn2.iconfinder.com/data/icons/business-271/141/7-512.png",
+    "exp": 3
+  },
+  {
+    "empID": "EMP104",
+    "role": "Frontend Developer",
+    "firstName": "John",
+    "lastName": "Peter",
+    "fullName": "John Peter",
+    "dob": "10-11-1997",
+    "doj": "01-04-2019",
+    "phoneNumber": "408-1234567",
+    "emailAddress": "johnpeter@gmail.com",
+    "userName": "john",
+    "password": "pass",
+    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8QmHon8a5YKImdgvdqUohG53ArDGaI0s6Cw&usqp=CAU",
+    "exp": 5
+  },
+  {
+    "empID": "EMP105",
+    "role": "Fullstack Developer",
+    "firstName": "David",
+    "lastName": "Thomas",
+    "fullName": "David Thomas",
+    "dob": "10-11-2000",
+    "doj": "20-02-2010",
+    "phoneNumber": "408-1111111",
+    "emailAddress": "davidthomas@gmail.com",
+    "userName": "david",
+    "password": "pass",
+    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtVITsdLZzILV4f9SwcTuWkD8Q6n5ImEg3rA&usqp=CAU",
+    "exp": 1
+  },
+  {
+    "empID": "EMP106",
+    "role": "Business Analyst",
+    "firstName": "Dhaval",
+    "lastName": "Patel",
+    "fullName": "Dhaval Patel",
+    "dob": "10-11-1999",
+    "doj": "31-04-2020",
+    "phoneNumber": "408-2222222",
+    "emailAddress": "dhavalpatel@gmail.com",
+    "userName": "dhaval",
+    "password": "pass",
+    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHmgseRqO6CI14XWSh5swCN19tzNhtgptvg&usqp=CAU",
+    "exp": 4
+  },
+  {
+    "nMW": "EW",
+    "9 - 10": ["book","ava"],
+    "slots": [
+      {
+        "time": "9 - 10",
+        "status": "b / nb",
+        "avail": "12"
+      }
+    ]
+  }
+]
