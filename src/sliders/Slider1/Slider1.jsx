@@ -10,9 +10,9 @@ const Slider1 = () => {
     slidesToShow: 1,
     slidesToScroll: 1,
     infinite: true,
-    speed: 500,
+    speed: 1000,
     autoplay: true,
-    autoplaySpeed: 1000,
+    autoplaySpeed: 1500,
   };
 
   // const properties = {
@@ -20,9 +20,9 @@ const Slider1 = () => {
   //   slidesToShow: 2,
   //   slidesToScroll: 1,
   //   infinite: true,
-  //   speed: 500,
+  //   speed: 1000,
   //   autoplay: true,
-  //   autoplaySpeed: 1000,
+  //   autoplaySpeed: 1500,
   // };
 
   // const properties = {
@@ -30,9 +30,9 @@ const Slider1 = () => {
   //   slidesToShow: 1,
   //   slidesToScroll: 2,
   //   infinite: true,
-  //   speed: 500,
+  //   speed: 1000,
   //   autoplay: true,
-  //   autoplaySpeed: 1000,
+  //   autoplaySpeed: 1500,
   // };
 
   // const properties = {
@@ -40,9 +40,9 @@ const Slider1 = () => {
   //   slidesToShow: 2,
   //   slidesToScroll: 2,
   //   infinite: true,
-  //   speed: 500,
+  //   speed: 1000,
   //   autoplay: true,
-  //   autoplaySpeed: 1000,
+  //   autoplaySpeed: 1500,
   // };
 
   // const properties = {
@@ -50,9 +50,9 @@ const Slider1 = () => {
   //   slidesToShow: 2,
   //   slidesToScroll: 2,
   //   infinite: true,
-  //   speed: 500,
+  //   speed: 1000,
   //   autoplay: true,
-  //   autoplaySpeed: 1000,
+  //   autoplaySpeed: 1500,
   //   fade: true,
   // };
 
